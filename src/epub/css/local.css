@@ -1,2 +1,16 @@
 @charset "UTF-8";
 @namespace epub "http://www.idpf.org/2007/ops";
+
+section[epub|type~="halftitlepage"] span[epub|type~="subtitle"]{
+	display: block;
+	font-size: .75em;
+}
+
+B {
+	font-weight: normal;
+	font-variant: small-caps;
+}
+
+ABBR.name {
+	white-space: nowrap;
+}
