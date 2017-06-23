@@ -18,34 +18,38 @@
 		<meta property="role" refines="#type-designer" scheme="marc:relators">tyd</meta>
 		<link href="onix.xml" rel="onix-record"/>
 		<dc:title id="title">Gitanjali</dc:title>
-		<meta property="file-as" refines="#title">SORT</meta>
-		<dc:subject id="subject-1">SUBJECT1</dc:subject>
-		<dc:subject id="subject-2">SUBJECT2</dc:subject>
-		<meta property="meta-auth" refines="#subject-1">LOCLINK1</meta>
-		<meta property="meta-auth" refines="#subject-2">LOCLINK2</meta>
-		<meta property="se:subject">TAG</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<meta property="file-as" refines="#title">Gitanjali</meta>
+		<dc:subject id="subject-1">Indic poetry — Translations into English</dc:subject>
+		<dc:subject id="subject-2">Tagore, Rabindranath, 1861-1941 -- Translations into English</dc:subject>
+		<dc:subject id="subject-3">Bengali poetry -- Translations into English</dc:subject>
+		<meta property="meta-auth" refines="#subject-1">https://lccn.loc.gov/96909030</meta>
+		<meta property="meta-auth" refines="#subject-2">https://lccn.loc.gov/96909030</meta>
+		<meta property="meta-auth" refines="#subject-3">https://lccn.loc.gov/96909030</meta>
+		<meta property="se:subject">Poetry, Nature, Spirituality</meta>
+		<dc:description id="description">Prose poems of offering translated by the author from the original Bengali.</dc:description>
 		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONGDESCRIPTION
+			&lt;p&gt;Widely regarded as one of the most important figures in Indian (and more specifically Bengali) literary history, Rabindranath Tagore was the first Indian (and indeed the first person outside Europe) to win the Nobel Prize in Literature, largely in recognition of his “spiritual offering of song”, Gitanjali.&lt;/p&gt;
+			&lt;p&gt;Tagore himself translated the poems from the original Bengali, taking many liberties in the process. His english translation is rightly recognized as a work distinct from the Bengali original, consisting of major revisions, many elisions, and many poems originally published in other collections.&lt;/p&gt;
+			&lt;p&gt;Tagore’s lyrical simplicity, exotic imagery, and themes of nature, spirituality, death, and transcendence, combine to produce a truly unique, powerfully moving work of beauty admired around the world.&lt;/p&gt;
 		</meta>
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
-		<dc:language>LANG</dc:language>
-		<dc:source>LINK</dc:source>
+		<dc:language>en-GB</dc:language>
+		<dc:source>http://www.gutenberg.org/ebooks/7164</dc:source>
 		<meta property="se:word-count">WORDCOUNT</meta>
 		<meta property="se:reading-ease.flesch">READINGEASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">WIKILINK</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/rabindranath-tagore_gitanjali</meta>
 		<dc:creator id="author">Rabindranath Tagore</dc:creator>
-		<meta property="file-as" refines="#author">SORT</meta>
-		<meta property="se:name.person.full-name" refines="#author">FULLNAME</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#author">WIKILINK</meta>
-		<meta property="se:url.authority.nacoaf" refines="#author">NACOAFLINK</meta>
+		<meta property="file-as" refines="#author">Tagore, Rabindranath</meta>
+		<meta property="se:name.person.full-name" refines="#author">Rabindranath Tagore</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Rabindranath_Tagore</meta>
+		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n2007007685.html</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="translator">CONTRIB1</dc:contributor>
-		<meta property="file-as" refines="#translator">CONTRIB1SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#translator">WIKILINK</meta>
-		<meta property="se:url.authority.nacoaf" refines="#translator">NACOAFLINK</meta>
+		<dc:contributor id="translator">Rabindranath Tagore</dc:contributor>
+		<meta property="file-as" refines="#translator">Tagore, Rabindranath</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#translator">https://en.wikipedia.org/wiki/Rabindranath_Tagore</meta>
+		<meta property="se:url.authority.nacoaf" refines="#translator">http://id.loc.gov/authorities/names/n2007007685.html</meta>
 		<meta property="display-seq" refines="#translator">1</meta>
 		<meta property="role" refines="#translator" scheme="marc:relators">trl</meta>
 		<dc:contributor id="artist">COVERARTIST</dc:contributor>
@@ -57,9 +61,9 @@
 		<meta property="file-as" refines="#transcriber-1">TRANSCRIBERSORT</meta>
 		<meta property="se:url.homepage" refines="#transcriber-1">LINK</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
-		<dc:contributor id="producer-1">PRODUCER</dc:contributor>
-		<meta property="file-as" refines="#producer-1">PRODUCERSORT</meta>
-		<meta property="se:url.homepage" refines="#producer-1">LINK</meta>
+		<dc:contributor id="producer-1">Geoff Coffey</dc:contributor>
+		<meta property="file-as" refines="#producer-1">Coffey, Geoff</meta>
+		<meta property="se:url.homepage" refines="#producer-1">http://gwcoffey.com/</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">cov</meta>
@@ -67,22 +71,28 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
 	</metadata>
-	<manifest>
-		<item href="toc.xhtml" id="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
-		<item href="css/core.css" id="core.css" media-type="text/css"/>
-		<item href="css/local.css" id="local.css" media-type="text/css"/>
-		<item href="images/cover.svg" id="cover.svg" media-type="image/svg+xml" properties="cover-image"/>
-		<item href="images/logo.svg" id="logo.svg" media-type="image/svg+xml"/>
-		<item href="images/titlepage.svg" id="titlepage.svg" media-type="image/svg+xml"/>
-		<item href="text/colophon.xhtml" id="colophon.xhtml" media-type="application/xhtml+xml" properties="svg"/>
-		<item href="text/imprint.xhtml" id="imprint.xhtml" media-type="application/xhtml+xml" properties="svg"/>
-		<item href="text/titlepage.xhtml" id="titlepage.xhtml" media-type="application/xhtml+xml" properties="svg"/>
-		<item href="text/uncopyright.xhtml" id="uncopyright.xhtml" media-type="application/xhtml+xml"/>
-	</manifest>
-	<spine>
-		<itemref idref="titlepage.xhtml"/>
-		<itemref idref="imprint.xhtml"/>
-		<itemref idref="colophon.xhtml"/>
-		<itemref idref="uncopyright.xhtml"/>
-	</spine>
+        <manifest>
+                <item href="toc.xhtml" id="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
+                <item href="css/core.css" id="core.css" media-type="text/css"/>
+                <item href="css/local.css" id="local.css" media-type="text/css"/>
+                <item href="images/cover.svg" id="cover.svg" media-type="image/svg+xml" properties="cover-image"/>
+                <item href="images/logo.svg" id="logo.svg" media-type="image/svg+xml"/>
+                <item href="images/titlepage.svg" id="titlepage.svg" media-type="image/svg+xml"/>
+                <item href="text/colophon.xhtml" id="colophon.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+                <item href="text/gitanjali.xhtml" id="gitanjali.xhtml" media-type="application/xhtml+xml"/>
+                <item href="text/halftitlepage.xhtml" id="halftitlepage.xhtml" media-type="application/xhtml+xml"/>
+                <item href="text/imprint.xhtml" id="imprint.xhtml" media-type="application/xhtml+xml"/>
+                <item href="text/introduction.xhtml" id="introduction.xhtml" media-type="application/xhtml+xml"/>
+                <item href="text/titlepage.xhtml" id="titlepage.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+                <item href="text/uncopyright.xhtml" id="uncopyright.xhtml" media-type="application/xhtml+xml"/>
+        </manifest>
+        <spine>
+                <itemref idref="titlepage.xhtml"/>
+                <itemref idref="imprint.xhtml"/>
+                <itemref idref="halftitlepage.xhtml"/>
+                <itemref idref="introduction.xhtml"/>
+                <itemref idref="gitanjali.xhtml"/>
+                <itemref idref="colophon.xhtml"/>
+                <itemref idref="uncopyright.xhtml"/>
+        </spine>
 </package>
