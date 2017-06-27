@@ -101,8 +101,8 @@
 	<spine>
 		<itemref idref="titlepage.xhtml"/>
 		<itemref idref="imprint.xhtml"/>
-		<itemref idref="halftitle.xhtml"/>
 		<itemref idref="introduction.xhtml"/>
+		<itemref idref="halftitle.xhtml"/>
 		<itemref idref="gitanjali.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
 		<itemref idref="uncopyright.xhtml"/>
