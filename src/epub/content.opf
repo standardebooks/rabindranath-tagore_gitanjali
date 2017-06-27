@@ -25,45 +25,41 @@
 		<dc:title id="fulltitle">Gitanjali (Song Offerings)</dc:title>
 		<meta property="file-as" refines="#fulltitle">Gitanjali (Song Offerings)</meta>
 		<meta property="title-type" refines="#fulltitle">extended</meta>
-		<dc:subject id="subject-1">Indic poetry — Translations into English</dc:subject>
-		<dc:subject id="subject-2">Tagore, Rabindranath, 1861-1941 -- Translations into English</dc:subject>
-		<dc:subject id="subject-3">Bengali poetry -- Translations into English</dc:subject>
+		<dc:subject id="subject-1">Poetry</dc:subject>
+		<dc:subject id="subject-2">Spiritual</dc:subject>
 		<meta property="meta-auth" refines="#subject-1">https://lccn.loc.gov/96909030</meta>
 		<meta property="meta-auth" refines="#subject-2">https://lccn.loc.gov/96909030</meta>
 		<meta property="se:subject">Poetry, Nature, Spirituality</meta>
 		<dc:description id="description">Prose poems of offering translated by the author from the original Bengali.</dc:description>
 		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;Widely regarded as one of the most important figures in Indian (and more specifically Bengali) literary history, Rabindranath Tagore was the first Indian (and indeed the first person outside Europe) to win the Nobel Prize in Literature, largely in recognition of his “spiritual offering of song”, Gitanjali.&lt;/p&gt;
-			&lt;p&gt;Tagore himself translated the poems from the original Bengali, taking many liberties in the process. His english translation is rightly recognized as a work distinct from the Bengali original, consisting of major revisions, many elisions, and many poems originally published in other collections.&lt;/p&gt;
-			&lt;p&gt;Tagore’s lyrical simplicity, vivid imagery, and themes of nature, spirituality, death, and transcendence, combine to produce a truly unique, powerfully moving work of thoughtful beauty. For many who read it, Tagore’s words in Song XCVI ring true: “What I have seen is unsurpassable. I have tasted of the hidden honey of this lotus that expands on the ocean of light, and thus I am blessed.” (Song XCVI)&lt;/p&gt;
+			&lt;p&gt;Widely regarded as one of the most important figures in Indian (and more specifically Bengali) literary history, Rabindranath Tagore was the first Indian (and indeed the first person outside Europe) to win the Nobel Prize in Literature, largely in recognition of his “spiritual offering of song”, &lt;i&gt;Gitanjali&lt;/i&gt;.&lt;/p&gt;
+			&lt;p&gt;Tagore himself translated the poems from the original Bengali, taking many liberties in the process. His English translation is rightly recognized as a work distinct from the Bengali original, consisting of major revisions, many elisions, and many poems originally published in other collections.&lt;/p&gt;
+			&lt;p&gt;Tagore’s lyrical simplicity, vivid imagery, and themes of nature, spirituality, death, and transcendence, combine to produce a truly unique, powerfully moving work of thoughtful beauty. For many who read it, Tagore’s words in Song XCVI ring true: “What I have seen is unsurpassable. I have tasted of the hidden honey of this lotus that expands on the ocean of light, and thus I am blessed.”&lt;/p&gt;
 		</meta>
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-GB</dc:language>
-		<dc:source>http://www.gutenberg.org/ebooks/7164</dc:source>
+		<dc:source>https://www.gutenberg.org/ebooks/7164</dc:source>
+		<dc:source>https://catalog.hathitrust.org/Record/007133071</dc:source>
 		<meta property="se:word-count">14606</meta>
 		<meta property="se:reading-ease.flesch">77.27</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Gitanjali</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/rabindranath-tagore_gitanjali</meta>
 		<dc:creator id="author">Rabindranath Tagore</dc:creator>
+		<meta property="alternate-script" refines="#author">রবীন্দ্রনাথ ঠাকুর</meta>
 		<meta property="file-as" refines="#author">Tagore, Rabindranath</meta>
 		<meta property="se:name.person.full-name" refines="#author">Rabindranath Tagore</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Rabindranath_Tagore</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n2007007685</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="translator">Rabindranath Tagore</dc:contributor>
-		<meta property="file-as" refines="#translator">Tagore, Rabindranath</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#translator">https://en.wikipedia.org/wiki/Rabindranath_Tagore</meta>
-		<meta property="se:url.authority.nacoaf" refines="#translator">http://id.loc.gov/authorities/names/n2007007685</meta>
-		<meta property="display-seq" refines="#translator">1</meta>
-		<meta property="role" refines="#translator" scheme="marc:relators">trl</meta>
 		<dc:contributor id="introduction">W. B. Yeats</dc:contributor>
+		<meta property="se:name.person.full-name" refines="#introduction">William Butler Yeats</meta>
 		<meta property="file-as" refines="#introduction">Yeats, W. B.</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#introduction">https://en.wikipedia.org/wiki/W._B._Yeats</meta>
 		<meta property="se:url.authority.nacoaf" refines="#introduction">http://id.loc.gov/authorities/names/n82095402</meta>
-		<meta property="display-seq" refines="#introduction">1</meta>
 		<meta property="role" refines="#introduction" scheme="marc:relators">aui</meta>
 		<dc:contributor id="artist">Abanindranath Tagore</dc:contributor>
+		<meta property="alternate-script" refines="#artist">অবনীন্দ্রনাথ ঠাকুর</meta>
 		<meta property="file-as" refines="#artist">Tagore, Abanindranath</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Abanindranath_Tagore</meta>
 		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n81082069</meta>
