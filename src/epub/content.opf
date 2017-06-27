@@ -30,7 +30,6 @@
 		<dc:subject id="subject-3">Bengali poetry -- Translations into English</dc:subject>
 		<meta property="meta-auth" refines="#subject-1">https://lccn.loc.gov/96909030</meta>
 		<meta property="meta-auth" refines="#subject-2">https://lccn.loc.gov/96909030</meta>
-		<meta property="meta-auth" refines="#subject-3">https://lccn.loc.gov/96909030</meta>
 		<meta property="se:subject">Poetry, Nature, Spirituality</meta>
 		<dc:description id="description">Prose poems of offering translated by the author from the original Bengali.</dc:description>
 		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
@@ -97,7 +96,7 @@
 		<item href="images/titlepage.svg" id="titlepage.svg" media-type="image/svg+xml"/>
 		<item href="text/colophon.xhtml" id="colophon.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/gitanjali.xhtml" id="gitanjali.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/halftitlepage.xhtml" id="halftitlepage.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/halftitle.xhtml" id="halftitle.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/imprint.xhtml" id="imprint.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/introduction.xhtml" id="introduction.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/titlepage.xhtml" id="titlepage.xhtml" media-type="application/xhtml+xml" properties="svg"/>
@@ -106,7 +105,7 @@
 	<spine>
 		<itemref idref="titlepage.xhtml"/>
 		<itemref idref="imprint.xhtml"/>
-		<itemref idref="halftitlepage.xhtml"/>
+		<itemref idref="halftitle.xhtml"/>
 		<itemref idref="introduction.xhtml"/>
 		<itemref idref="gitanjali.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
