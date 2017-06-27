@@ -25,11 +25,15 @@
 		<dc:title id="fulltitle">Gitanjali (Song Offerings)</dc:title>
 		<meta property="file-as" refines="#fulltitle">Gitanjali (Song Offerings)</meta>
 		<meta property="title-type" refines="#fulltitle">extended</meta>
-		<dc:subject id="subject-1">Poetry</dc:subject>
-		<dc:subject id="subject-2">Spiritual</dc:subject>
+		<dc:subject id="subject-1">Indic poetry — Translations into English</dc:subject>
+		<dc:subject id="subject-2">Tagore, Rabindranath, 1861-1941 -- Translations into English</dc:subject>
+		<dc:subject id="subject-3">Bengali poetry -- Translations into English</dc:subject>
 		<meta property="meta-auth" refines="#subject-1">https://lccn.loc.gov/96909030</meta>
 		<meta property="meta-auth" refines="#subject-2">https://lccn.loc.gov/96909030</meta>
-		<meta property="se:subject">Poetry, Nature, Spirituality</meta>
+		<meta property="meta-auth" refines="#subject-3">https://lccn.loc.gov/96909030</meta>
+		<meta property="se:subject">Poetry</meta>
+		<meta property="se:subject">Nature</meta>
+		<meta property="se:subject">Spirituality</meta>
 		<dc:description id="description">Prose poems of offering translated by the author from the original Bengali.</dc:description>
 		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
