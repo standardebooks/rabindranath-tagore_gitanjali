@@ -1,6 +1,10 @@
 @charset "UTF-8";
 @namespace epub "http://www.idpf.org/2007/ops";
 
+abbr.name{
+	white-space: nowrap;
+}
+
 section[epub|type~="halftitlepage"] span[epub|type~="subtitle"]{
 	display: block;
 	font-size: .75em;
@@ -9,4 +13,13 @@ section[epub|type~="halftitlepage"] span[epub|type~="subtitle"]{
 
 .signature {
 	font-variant: small-caps;
+}
+
+footer{
+	margin-top: 1em;
+	text-align: right;
+}
+
+footer p + p{
+	font-style: italic;
 }
