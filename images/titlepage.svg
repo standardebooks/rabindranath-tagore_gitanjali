@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 1400 1050">
 	<title>The titlepage for the Standard Ebooks edition of Gitanjali, by Rabindranath Tagore</title>
-	<text style="fill:#000;font-family:League Spartan;font-size:93.56725311px;letter-spacing:5px" text-anchor="middle" x="700" y="130">GITANJALI</text>
-	<text style="fill:#000;font-family:League Spartan;font-size:70.17543793px;letter-spacing:5px" text-anchor="middle" x="700" y="310">RABINDRANATH TAGORE</text>
+	<text style="font-family:League Spartan;font-size:93.56725311px;letter-spacing:5px" text-anchor="middle" x="700" y="130">GITANJALI</text>
+	<text style="font-family:League Spartan;font-size:70.17543793px;letter-spacing:5px" text-anchor="middle" x="700" y="310">RABINDRANATH TAGORE</text>
 </svg>
