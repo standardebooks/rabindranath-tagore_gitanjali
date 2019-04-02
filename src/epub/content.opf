@@ -43,6 +43,7 @@
 		<meta property="meta-auth" refines="#subject-3">https://lccn.loc.gov/96909030</meta>
 		<meta property="se:subject">Poetry</meta>
 		<meta property="se:subject">Spirituality</meta>
+		<meta property="se:subject">Fiction</meta>
 		<dc:description id="description">Prose poems of offering translated by the author from the original Bengali.</dc:description>
 		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
