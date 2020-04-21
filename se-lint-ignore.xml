@@ -5,9 +5,5 @@
 			<code>s-006</code>
 			<reason>The poems are not regular line-based poems, so the standard line-based formatting does not apply.</reason>
 		</ignore>
-		<ignore>
-			<code>s-043</code>
-			<reason>The poems are not regular line-based poems, so the standard line-based formatting does not apply.</reason>
-		</ignore>
 	</file>
 </se-lint-ignore>
