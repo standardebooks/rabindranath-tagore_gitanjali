@@ -44,9 +44,9 @@
 		<meta property="term" refines="#subject-2">Unknown</meta>
 		<meta property="authority" refines="#subject-3">LCSH</meta>
 		<meta property="term" refines="#subject-3">sh2009116939</meta>
+		<meta property="se:subject">Fiction</meta>
 		<meta property="se:subject">Poetry</meta>
 		<meta property="se:subject">Spirituality</meta>
-		<meta property="se:subject">Fiction</meta>
 		<dc:description id="description">Prose poems of offering translated by the author from the original Bengali.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;Widely regarded as one of the most important figures in Indian (and more specifically Bengali) literary history, Rabindranath Tagore was the first Indian (and indeed the first person outside Europe) to win the Nobel Prize in Literature, largely in recognition of his “spiritual offering of songs,” &lt;i&gt;Gitanjali&lt;/i&gt;.&lt;/p&gt;
