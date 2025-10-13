@@ -72,7 +72,7 @@
 		<meta property="file-as" refines="#introduction">Yeats, W. B.</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#introduction">https://en.wikipedia.org/wiki/W._B._Yeats</meta>
 		<meta property="se:url.authority.nacoaf" refines="#introduction">http://id.loc.gov/authorities/names/n82095402</meta>
-		<meta property="role" refines="#introduction" scheme="marc:relators">aui</meta>
+		<meta property="role" refines="#introduction" scheme="marc:relators">win</meta>
 		<dc:contributor id="artist">Abanindranath Tagore</dc:contributor>
 		<meta property="alternate-script" refines="#artist">অবনীন্দ্রনাথ ঠাকুর</meta>
 		<meta property="file-as" refines="#artist">Tagore, Abanindranath</meta>
