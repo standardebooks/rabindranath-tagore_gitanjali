@@ -57,7 +57,7 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/7164</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/007133071</dc:source>
-		<meta property="se:word-count">14605</meta>
+		<meta property="se:word-count">14569</meta>
 		<meta property="se:reading-ease.flesch">77.27</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Gitanjali</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/rabindranath-tagore_gitanjali</meta>
