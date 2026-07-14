@@ -36,7 +36,7 @@
 		<meta property="title-type" refines="#subtitle">subtitle</meta>
 		<dc:title id="fulltitle">Gitanjali (Song Offerings)</dc:title>
 		<meta property="file-as" refines="#fulltitle">Gitanjali (Song Offerings)</meta>
-		<meta property="title-type" refines="#fulltitle">extended</meta>
+		<meta property="title-type" refines="#fulltitle">expanded</meta>
 		<dc:subject id="subject-1">Indic poetry -- Translations into English</dc:subject>
 		<dc:subject id="subject-2">Tagore, Rabindranath, 1861-1941 -- Translations into English</dc:subject>
 		<dc:subject id="subject-3">Bengali poetry -- Translations into English</dc:subject>
