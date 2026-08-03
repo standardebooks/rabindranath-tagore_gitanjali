@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/rabindranath-tagore/gitanjali</dc:identifier>
 		<dc:date>2017-06-25T16:22:32Z</dc:date>
@@ -49,12 +49,12 @@
 		<meta property="schema:genre">Fiction</meta>
 		<meta property="schema:genre">Poetry</meta>
 		<meta property="schema:genre">Spirituality</meta>
-		<dc:description id="description">Prose poems of offering translated by the author from the original Bengali.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>Prose poems of offering translated by the author from the original Bengali.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;Widely regarded as one of the most important figures in Indian (and more specifically Bengali) literary history, &lt;a href="https://standardebooks.org/ebooks/rabindranath-tagore"&gt;Rabindranath Tagore&lt;/a&gt; was the first Indian—indeed, the first person outside Europe—to win the Nobel Prize in Literature, largely in recognition of his “spiritual offering of songs,” &lt;i&gt;Gitanjali&lt;/i&gt;.&lt;/p&gt;
 			&lt;p&gt;Tagore himself translated the poems from the original Bengali, taking many liberties in the process. His English translation is rightly recognized as a work distinct from the Bengali original, consisting of major revisions, many elisions, and many poems originally published in other collections.&lt;/p&gt;
 			&lt;p&gt;Tagore’s lyrical simplicity, vivid imagery, and themes of nature, spirituality, death, and transcendence combine to produce a truly unique, powerfully moving work of thoughtful beauty. For many who read it, Tagore’s words in Song XCVI ring true: “What I have seen is unsurpassable. I have tasted of the hidden honey of this lotus that expands on the ocean of light, and thus I am blessed.”&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/7164</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/007133071</dc:source>
