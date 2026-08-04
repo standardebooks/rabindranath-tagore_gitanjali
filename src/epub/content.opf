@@ -49,7 +49,7 @@
 		<meta property="schema:genre">Fiction</meta>
 		<meta property="schema:genre">Poetry</meta>
 		<meta property="schema:genre">Spirituality</meta>
-		<dc:abstract>Prose poems of offering translated by the author from the original Bengali.</dc:abstract>
+		<meta property="schema:abstract">Prose poems of offering translated by the author from the original Bengali.</meta>
 		<dc:description>
 			&lt;p&gt;Widely regarded as one of the most important figures in Indian (and more specifically Bengali) literary history, &lt;a href="https://standardebooks.org/ebooks/rabindranath-tagore"&gt;Rabindranath Tagore&lt;/a&gt; was the first Indian—indeed, the first person outside Europe—to win the Nobel Prize in Literature, largely in recognition of his “spiritual offering of songs,” &lt;i&gt;Gitanjali&lt;/i&gt;.&lt;/p&gt;
 			&lt;p&gt;Tagore himself translated the poems from the original Bengali, taking many liberties in the process. His English translation is rightly recognized as a work distinct from the Bengali original, consisting of major revisions, many elisions, and many poems originally published in other collections.&lt;/p&gt;
