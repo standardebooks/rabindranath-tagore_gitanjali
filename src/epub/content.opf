@@ -65,20 +65,20 @@
 		<meta property="rdf:type" refines="#vcs-repository">http://schema.org/SoftwareSourceCode</meta>
 		<link href="https://github.com/standardebooks/rabindranath-tagore_gitanjali" refines="#vcs-repository" rel="schema:codeRepository"/>
 		<dc:creator id="author">Rabindranath Tagore</dc:creator>
-		<meta property="alternate-script" refines="#author">রবীন্দ্রনাথ ঠাকুর</meta>
 		<meta property="file-as" refines="#author">Tagore, Rabindranath</meta>
+		<meta property="alternate-script" refines="#author">রবীন্দ্রনাথ ঠাকুর</meta>
 		<link href="https://en.wikipedia.org/wiki/Rabindranath_Tagore" refines="#author" rel="schema:sameAs"/>
-		<link href="https://id.loc.gov/authorities/names/n2007007685.html" refines="#author" rel="schema:sameAs"/>
+		<link href="https://id.loc.gov/authorities/names/n80036680.html" refines="#author" rel="schema:sameAs"/>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="introduction">W. B. Yeats</dc:contributor>
-		<meta property="schema:alternateName" refines="#introduction">William Butler Yeats</meta>
 		<meta property="file-as" refines="#introduction">Yeats, W. B.</meta>
+		<meta property="schema:alternateName" refines="#introduction">William Butler Yeats</meta>
 		<link href="https://en.wikipedia.org/wiki/W._B._Yeats" refines="#introduction" rel="schema:sameAs"/>
-		<link href="https://id.loc.gov/authorities/names/n82095402.html" refines="#introduction" rel="schema:sameAs"/>
+		<link href="https://id.loc.gov/authorities/names/n78095579.html" refines="#introduction" rel="schema:sameAs"/>
 		<meta property="role" refines="#introduction" scheme="marc:relators">win</meta>
 		<dc:contributor id="artist">Abanindranath Tagore</dc:contributor>
-		<meta property="alternate-script" refines="#artist">অবনীন্দ্রনাথ ঠাকুর</meta>
 		<meta property="file-as" refines="#artist">Tagore, Abanindranath</meta>
+		<meta property="alternate-script" refines="#artist">অবনীন্দ্রনাথ ঠাকুর</meta>
 		<link href="https://en.wikipedia.org/wiki/Abanindranath_Tagore" refines="#artist" rel="schema:sameAs"/>
 		<link href="https://id.loc.gov/authorities/names/n81082069.html" refines="#artist" rel="schema:sameAs"/>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
@@ -93,7 +93,7 @@
 		<meta property="role" refines="#transcriber-3" scheme="marc:relators">trc</meta>
 		<dc:contributor id="producer-1">Geoff Coffey</dc:contributor>
 		<meta property="file-as" refines="#producer-1">Coffey, Geoff</meta>
-		<link href="http://gwcoffey.com/" refines="#producer-1" rel="schema:url"/>
+		<link href="https://gwcoffey.com/" refines="#producer-1" rel="schema:url"/>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">cov</meta>
